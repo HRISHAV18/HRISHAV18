@@ -18,7 +18,7 @@
   
 -  🥅 Goals: Contribute more to Open Source projects
   
-- ⚡ Fun fact: I love to draw, play volleyball🏐 & play 
+- ⚡ Fun fact: I love to  enjoy travelling, play football🏐 & draw 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,4 +38,20 @@
 ### 📚📂 My Works
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
 
-- [Frontend website](https://....................github.io/Frontend-first-website/)
+- [Weather website](https://....................github.io/Frontend-first-website/)
+
+
+
+---
+---
+<div align="center">
+<p>Feel free to express something about my works in my guest book:</p>
+<a href="https://github.com/ShouryaBrahmastra/ShouryaBrahmastra/issues/1"><img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/guestbook.gif" alt="Guest book" align="center"></a>
+</div>
+
+<hr>
+<div  align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+
+
+---
