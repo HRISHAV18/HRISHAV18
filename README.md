@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm HRISHAV KARMAKAR</h1>
 <h3 align="center">A passionate FULL STACK WEB DEVELOPER from India</h3>
 
+#😍😍 Views and Followers ❤❤ <br> <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrishav18&label=Profile%20views&color=0e75b6&style=flat" alt="hrishav18" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrishav18" alt="hrishav18" /></a> </p>
@@ -12,6 +13,12 @@
 - 👨‍💻 All of my projects are available at [https://hrishav18.github.io/Intern_Savy_Internship_Personal_Website/](https://hrishav18.github.io/Intern_Savy_Internship_Personal_Website/)
 
 - 📫 How to reach me **HRISHAVKARMOKAR2583@gmail.com**
+
+- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> I’m looking to collaborate with other content creators
+  
+-  🥅 Goals: Contribute more to Open Source projects
+  
+- ⚡ Fun fact: I love to draw, play volleyball🏐 & play 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +34,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrishav18&" alt="hrishav18" /></p>
 
+---
+### 📚📂 My Works
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
 
+- [Frontend website](https://....................github.io/Frontend-first-website/)
