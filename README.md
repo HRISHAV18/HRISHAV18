@@ -47,6 +47,7 @@
 - [YouTube Clone]()
 - [Netflix Clone]()
 - [Music Player]()
+- [Analog Clock]()
 
 
 ---
