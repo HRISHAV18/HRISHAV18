@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://hrishav18.github.io/Intern_Savy_Internship_Personal_Website/](https://hrishav18.github.io/Intern_Savy_Internship_Personal_Website/)
+- 👨‍💻 All of my projects are available at [https://hrishav18.github.io/Intern_Savy_Internship_Personal_Website/](https://hrishav18.github.io/HRISHAV__Portfolio/)
 
 - 📫 How to reach me **HRISHAVKARMOKAR2583@gmail.com**
 
